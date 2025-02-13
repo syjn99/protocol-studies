@@ -176,3 +176,4 @@ By LC in Elixir
 ### Additional reading
 
 [Analysis of CL clients performance, outdated](https://mirror.xyz/0x934e6B4D7eee305F8C9C42b46D6EEA09CcFd5EDc/b69LBy8p5UhcGJqUAmT22dpvdkU-Pulg2inrhoS9Mbc)
+[Analysis of CL clients resource usage](https://ieeexplore.ieee.org/document/10478898)
